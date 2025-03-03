@@ -1,0 +1,50 @@
+body { max-width: 1000px;
+    margin: 0 auto;
+    background-color: blanchedalmond;
+}
+
+header {
+    text-align: center;
+    padding: 20px;
+}
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    display: block;
+    text-align: center;
+    background-color: lightgray;
+}
+
+img {
+    display: block;
+    height: auto;
+    margin: auto;
+    width: 500px;
+}
+
+.fakten {
+    display: block;
+    background-color: lightblue;
+    border: 1px solid;
+}
+
+li {
+    display: block;
+    padding: 10px;    
+}
+
+nav {
+    text-align: center;
+    font-size: x-large;
+}
+
+p {
+    text-align: center;
+}
+
+footer {
+    text-align: center;
+}
